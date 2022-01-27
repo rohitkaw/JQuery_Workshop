@@ -1,0 +1,14 @@
+.col1 {
+    border: 1px solid rgb(190, 190, 190);
+    pading: 8px;
+    width: 300px;
+    text-align: left;
+    background-color: lightblue;
+}
+
+.col2 {
+    border: 1px solid rgb(190, 190, 190);
+    pading: 8px;
+    width: 300px;
+    text-align: left;
+    background-color: lightblue;
